@@ -21,3 +21,7 @@ input[ypte=text]:focus{
 .delete {
     cursor: pointer;
 }
+
+.filtered {
+    display: none !important;
+}
